@@ -5,3 +5,6 @@ backend/.config/
 frontend/node_modules/
 frontend/dist/
 .env
+venv/
+node_modules/
+*.log
